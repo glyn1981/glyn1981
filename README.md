@@ -9,6 +9,8 @@ I'm a software developer with a focus on C# and .NET, passionate about writing c
 ## 🧠 Projects
 
 Here are some of my featured projects. All are designed with clean architecture and simplicity in mind:
+### 🛳️ [BattleShips.Net](https://github.com/glyn1981/BlackJack)
+A classic implementation of Backjack in C# with a focus on SOLID principles, object-oriented design, and testable code structure. Includes an AI opponent and extensible architecture.
 
 ### 🛳️ [BattleShips.Net](https://github.com/glyn1981/BattleShips.Net)
 A classic implementation of Battleships in C# with a focus on SOLID principles, object-oriented design, and testable code structure. Includes an AI opponent and extensible architecture.
