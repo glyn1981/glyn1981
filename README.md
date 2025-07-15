@@ -15,7 +15,7 @@ A fully testable and interface-driven console-based blackjack game built with .N
 ### 🛳️ [BattleShips.Net](https://github.com/glyn1981/BattleShips.Net)
 A classic implementation of Battleships in C# with a focus on SOLID principles, object-oriented design, and testable code structure. Includes an AI opponent and extensible architecture.
 
-### ❌⭕ [NoughtsAndCrosses](https://github.com/glyn1981/NoughtsAndCrosses)
+### ❌⭕ [NoughtsAndCrosses](https://github.com/glyn1981/NoughtsAndCrossesGame)
 Console-based tic-tac-toe game. Lightweight and demonstrates clean game loop logic, win/tie detection, and validation.
 
 ### ✂️ [RockPaperScissors](https://github.com/glyn1981/RockPaperScissors)
